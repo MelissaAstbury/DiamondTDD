@@ -1,0 +1,12 @@
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/bin/Debug/net5.0/Diamond.deps.json
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/bin/Debug/net5.0/Diamond.dll
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/bin/Debug/net5.0/ref/Diamond.dll
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/bin/Debug/net5.0/Diamond.pdb
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/obj/Debug/net5.0/Diamond.csproj.AssemblyReference.cache
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/obj/Debug/net5.0/Diamond.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/obj/Debug/net5.0/Diamond.AssemblyInfoInputs.cache
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/obj/Debug/net5.0/Diamond.AssemblyInfo.cs
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/obj/Debug/net5.0/Diamond.csproj.CoreCompileInputs.cache
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/obj/Debug/net5.0/Diamond.dll
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/obj/Debug/net5.0/ref/Diamond.dll
+/Users/melissaastbury/Documents/Study/CSharp/Diamond/Diamond/obj/Debug/net5.0/Diamond.pdb
