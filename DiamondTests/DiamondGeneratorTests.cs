@@ -13,5 +13,14 @@ namespace DiamondTests
             generator.ShouldNotBeNull();
             generator.ShouldBeOfType<DiamondGenerator>();
         }
+
+        [Theory]
+        [InlineData("C", "ABBCCBBA")]
+        public void Task2(string character, string expectedResult)
+        {
+            DiamondGenerator generator = new();
+            var result = generator.PrintDiamond(character);
+            result.ShouldBe(expectedResult);
+        }
     }
 }

@@ -1,17 +1,17 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="DiamondTests/UnitTest1.cs">
+﻿<Properties StartupConfiguration="{D694C380-1A69-4E4E-A91A-4930C8D4AA1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Diamond/DiamondGenerator.cs">
     <Files>
-      <File FileName="Diamond/Class1.cs" Line="7" Column="1" />
-      <File FileName="DiamondTests/UnitTest1.cs" Line="1" Column="14" />
+      <File FileName="DiamondTests/DiamondGeneratorTests.cs" Line="1" Column="1" />
+      <File FileName="Diamond/DiamondGenerator.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Diamond" expanded="True">
-            <Node name="Diamond" expanded="True" />
-            <Node name="DiamondTests" expanded="True">
-              <Node name="UnitTest1.cs" selected="True" />
+            <Node name="Diamond" expanded="True">
+              <Node name="DiamondGenerator.cs" selected="True" />
             </Node>
+            <Node name="DiamondTests" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,7 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.DiamondTests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DiamondTests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

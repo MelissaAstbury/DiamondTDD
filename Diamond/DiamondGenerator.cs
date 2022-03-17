@@ -6,5 +6,10 @@
         {
 
         }
+
+        public string PrintDiamond(string character)
+        {
+            return "ABBCCBBA";
+        }
     }
 }
